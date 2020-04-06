@@ -1,6 +1,6 @@
 # Flask Mailroom Application
 
-Running at [http://lesson01-assigment-51666.herokuapp.com/donations/](http://lesson01-assignment-51666.herokuapp.com/donations/).
+Running at [http://desolate-ridge-36007.herokuapp.com/donations/](http://desolate-ridge-36007.herokuapp.com/donations/).
 
 ## Your Task
 
